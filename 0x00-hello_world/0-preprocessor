@@ -1,6 +1,2 @@
-#!/bin?bas
-gcc -E @$
-gcc _
-gcc -E $CFILE -)
-gcc -E $CFILE -0 c
- 
+#!/bin/bash
+gcc -E $CFILE -o ./c
